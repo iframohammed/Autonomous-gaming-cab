@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the documentation with a placeholder for references:
-
 # Reinforcement Learning for Self-Driving Cab - User Documentation Manual
 
 ## Introduction
@@ -98,10 +96,14 @@ Congratulations! You've completed the "Reinforcement Learning for Self-Driving C
 
 ## 7. References
 
-- [Reference 1]
-- [Reference 2]
-- [Reference 3]
+1) Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press.
+
+2) Mnih, V., et al. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533.
+
+3) OpenAI Gym. (https://gym.openai.com/)
+
+4) Kaelbling, L. P., Littman, M. L., & Cassandra, A. R. (1996). Planning and acting in partially observable stochastic domains. Artificial Intelligence, 101(1-2), 99-134.
 
 ## 8. Contributors
 
-Created by: [Your Name and Your Team Members' Names]
+Created by: Ifra Mohammed & Nimeesha
